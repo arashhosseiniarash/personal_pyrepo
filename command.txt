@@ -1,0 +1,10 @@
+mkdir
+ls
+ls -la
+cd
+cd.. (go back to the previous folder)
+pwd
+clear
+cd ~ (go to home directory --> /users/<username> in wondows)
+cat <file_name>
+
